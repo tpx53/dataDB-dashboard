@@ -1,0 +1,29 @@
+.app_ECIyearPCS {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    color: #41454b;
+}
+
+.ECIyearPCS_title {
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    margin: 0 1rem;
+    font-size: 1rem;
+}
+.ECIyearPCS_body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .ECIyearPCS_body_number {
+        font-size: 1.5rem;
+        font-weight: 600;
+    }
+    .ECIyearPCS_body_danwei {
+        font-size: 1rem;
+    }
+}
