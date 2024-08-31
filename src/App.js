@@ -38,7 +38,7 @@ function App() {
             <div className='leftbox2'></div>
             <div className='leftbox3'>Dashboard</div>
           </div>
-          <div className='title_right_box'>最新更新时间：2024/2/19</div>
+          <div className='title_right_box'>最新更新时间：2024/2/20</div>
         </div>
       </div>
       <div className="body_dashboard">
